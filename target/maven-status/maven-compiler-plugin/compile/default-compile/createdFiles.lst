@@ -1,0 +1,6 @@
+com\example\studentmanagementsystem\controller\StudentController.class
+com\example\studentmanagementsystem\service\StudentService.class
+com\example\studentmanagementsystem\StudentManagementApplication.class
+com\example\studentmanagementsystem\entity\Student.class
+com\example\studentmanagementsystem\repository\StudentRepository.class
+com\example\studentmanagementsystem\service\StudentServiceImpl.class
